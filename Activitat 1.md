@@ -159,3 +159,6 @@ Amb aixo ya ho tindriem.
 ![imatge](1.17.png)
 
 
+![image](https://user-images.githubusercontent.com/114423194/204347569-23dcf4d8-f176-4980-a573-2b56b20301e8.png)
+
+
