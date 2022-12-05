@@ -1,4 +1,4 @@
-# Instalar y configurar Moodle en Linux
+# Crear Categories i cursos
 SMX-B MP08
 
 ####  Alumnes
